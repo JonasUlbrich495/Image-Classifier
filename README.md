@@ -8,5 +8,5 @@ This is a neuronal network to classify flower images.
    1. Build the Classifier
    1. Train the data
    1. Save the parameters
-1. Test the data (*test.py*)
+1. Test the data (*process_image.py, predict.py*)
  
